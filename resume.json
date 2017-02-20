@@ -1,0 +1,197 @@
+{
+  "basics": {
+    "name": "Nana Adane",
+    "label": "Software Engineer/JavaScript Enthusiast",
+    "phone": "",
+    "website": "",
+    "summary": "I live in Ghana (that's in West Africa) where I got my degree in Computer Engineering. I worked for two years as a Backend Developer/Support Engineer for DreamOval Limited one of the top software firms in Africa within the Fintech space. Most of my work was bespoke(customized based on a platform my team built called Enterprise Nurs)  for enterprise clients like GCB Bank, Stanbic Bank and Fidelity Bank. I built data intensive software that pooled data from multiple data silos and gave our banking clients a 360 degree view of their customers. This greatly improved customer engagement. Most of this was done in Java using Spring. I'm a perpetual learner and I enjoy solving problems especially hard ones. My skill set spans many fields and disciplines but I currently call software development and engineering home. I spend my days figuring out the best possible way to meet a clients need using the technology and frameworks available to me.",
+    "location": {
+      "address": "P6 Manet Cottage, Spintex",
+      "postalCode": "CT 1196",
+      "city": "Accra",
+      "countryCode": "GH",
+      "region": "Greater Accra"
+    },
+    "profiles": [
+      {
+        "network": "Twitter",
+        "username": "NanaOAdane",
+        "url": "https://twitter.com/NanaOAdane"
+      },
+      {
+        "network": "Github",
+        "username": "v3rse",
+        "url": "https://github.com/v3rse"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "DreamLap",
+      "position": "Software Engineering Intern",
+      "website": "",
+      "startDate": "2016-05-01",
+      "summary": "Contributed to the development of the data access layer for the DreamLap application.",
+      "highlights": [
+        "Worked on data access layer of application"
+      ],
+      "endDate": "2016-07-01"
+    },
+    {
+      "company": "DreamOval Ltd.",
+      "position": "Software Engineer",
+      "website": "",
+      "startDate": "2013-07-01",
+      "summary": "I basically build enterprise solutions with strong, scalable and resilient back-ends. If it's a system that should never go down or is very critical to your enterprises needs then I'm part of the team that built it. I enjoy solving the programming problems presented by the financial world and I go to work everyday ready to solve them.",
+      "highlights": [
+        "Built proactive live notification system for Enterprise Nurs",
+        "Worked on Nurs Lite 2.0 system for generating bank statements and accompanying live notification system"
+      ],
+      "endDate": "2015-10-01"
+    },
+    {
+      "company": "mfriday",
+      "position": "Member and Programmer",
+      "website": "",
+      "startDate": "2012-01-01",
+      "summary": "A mobile web technology lab and incubator,",
+      "highlights": [],
+      "endDate": "2013-06-01"
+    },
+    {
+      "company": "Millicom International Cellular (Tigo)",
+      "position": "Engineering intern",
+      "website": "",
+      "startDate": "2011-06-01",
+      "summary": "Rotated through the various departments in Network Operations. Worked in the Intelligence network, as well as Engineering Operations and Network Quality.",
+      "highlights": [],
+      "endDate": "2011-08-01"
+    }
+  ],
+  "education": [
+   {
+      "institution": "Kwame Nkrumah' University of Science and Technology, Kumasi",
+      "area": "",
+      "studyType": "Bachelor of Science (B.Sc.)",
+      "startDate": "2009-01-01",
+      "gpa": "",
+      "courses": [],
+      "endDate": "2013-01-01"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Frontend Web Development",
+      "level": "Intermediate",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "Javascript",
+        "ReactJS",
+        "Redux"
+      ]
+    },
+    {
+      "name": "Backend Web Development",
+      "level": "Master",
+      "keywords": [
+        "NodeJS",
+        "Hapi",
+        "Mongo",
+        "JWT"
+      ]
+    },
+    {
+      "name": "Enterprise Software Development",
+      "level": "Master",
+      "keywords": [
+        "Java",
+        "Spring MVC",
+        "Spring Data",
+        "Spring Boot",
+        "Sprint Integration"
+      ]
+    },
+    {
+      "name": "DevOps",
+      "level": "Intermediate",
+      "keywords": [
+        "Linux",
+        "Ansible",
+        "Nginx",
+        "Docker"
+      ]
+    }
+
+  ],
+  "languages": [
+    {
+      "language": "French",
+      "fluency": "Limited working"
+    },
+    {
+      "language": "English",
+      "fluency": "Native or bilingual"
+    },
+    {
+      "language": "Twi",
+      "fluency": "Native or bilingual"
+    },
+    {
+      "language": "Ga",
+      "fluency": "Native or bilingual"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Electronics and robotics",
+      "keywords": []
+    },
+    {
+      "name": ": "Music",
+      "keywords": ["Guitar"]
+    },
+    {
+      "name": "Educational systems",
+      "keywords": []
+    }
+  ],
+  "projects": [
+    {
+        "name": "done",
+        "startDate": "2016-09-06",
+        "summary": "Todo list CLI",
+        "url": "https://github.com/v3rse/done"
+    },
+    {
+        "name": "chroma",
+        "startDate": "2016-09-06",
+        "summary":"Colors for your terminal app",
+        "url": "https://github.com/v3rse/chroma"
+    },
+    {
+      "name": "Enterprise Nurs 2.0",
+      "startDate": "2015-10-01",
+      "summary": "Customer stickiness measures a customer’s loyalty to your company. Why is this important? \n\nLosing customers typically:\n- Costs your company more than  acquiring\n- Damages your company’s brand\n\nEnterprise Nurs is a suite of applications that help you drive customer stickiness - an imperative for any resilient profitability strategy. Each application is designed to drastically elevate your customer experience from inside out. Its state-of-the-art micro service architecture also means scaling is on demand and not wholesale.What differentiates Nurs is its ease of integration even with legacy systems. Unlike the typical 3-6 month implementation period for most enterprise solutions, Enterprise Nurs can be fully deployed in a month.",
+      "url": "http://enterprisenurs.com/"
+    },
+    {
+      "name": "iWallet API NPM(Node.js) Module",
+      "startDate": "2014-12-01",
+      "summary": "iWallet is an online payment service platform for merchants and individuals to securely make and receive payments. iWallet works like a aggregator which has integration with various channels of payments including some mobile money channels.\n\nThis node module aims to reduce the amount of code required to create an application which relies on iWallet for payment by exposing the actions(methods) provided by iWallet's SOAP API.",
+      "url": "https://www.npmjs.com/package/iwallet-node"
+    },
+    {
+      "name": "GoInvest  (Mobile Web Training)",
+      "startDate": "2012-05-01",
+      "summary": "1.Brainstorming with team members in building a concept that will revolutionize savings.\n\n2.Communication with micro finance companies to find a unifying model to sustains both this project and their current business model.\n\n3.Brokering a legal deal to make such a model legitimate.",
+      "url": "http://www.mobilewebghana.org/me-projects/"
+    },
+    {
+      "name": "Miguide  (Guidance Project)",
+      "startDate": "2012-01-01",
+      "summary": "creating an online portal for guidance counselling in education/jobs/services.\nCurrently focusing on helping people make informed decisions about the educational choices we make",
+      "url": "http://www.miguideonline.com"
+    }
+  ]
+}
