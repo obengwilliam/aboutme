@@ -1,9 +1,10 @@
 {
   "basics": {
     "name": "Nana Adane",
-    "label": "Software Engineer/JavaScript Enthusiast",
-    "phone": "",
-    "website": "",
+    "label": "Software Engineer",
+    "phone": "+233246184046",
+    "email": "nanaofosuheneadane.gmail.com",
+    "website": "blog.nanaadane.com",
     "summary": "I live in Ghana (that's in West Africa) where I got my degree in Computer Engineering. I worked for two years as a Backend Developer/Support Engineer for DreamOval Limited one of the top software firms in Africa within the Fintech space. Most of my work was bespoke(customized based on a platform my team built called Enterprise Nurs)  for enterprise clients like GCB Bank, Stanbic Bank and Fidelity Bank. I built data intensive software that pooled data from multiple data silos and gave our banking clients a 360 degree view of their customers. This greatly improved customer engagement. Most of this was done in Java using Spring. I'm a perpetual learner and I enjoy solving problems especially hard ones. My skill set spans many fields and disciplines but I currently call software development and engineering home. I spend my days figuring out the best possible way to meet a clients need using the technology and frameworks available to me.",
     "location": {
       "address": "P6 Manet Cottage, Spintex",
@@ -70,8 +71,8 @@
   ],
   "education": [
    {
-      "institution": "Kwame Nkrumah' University of Science and Technology, Kumasi",
-      "area": "",
+      "institution": "K.N.U.S.T - Kumasi",
+      "area": "Computer Engineering",
       "studyType": "Bachelor of Science (B.Sc.)",
       "startDate": "2009-01-01",
       "gpa": "",
@@ -148,7 +149,7 @@
       "keywords": []
     },
     {
-      "name": ": "Music",
+      "name": "Music",
       "keywords": ["Guitar"]
     },
     {
