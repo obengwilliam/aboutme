@@ -9,7 +9,7 @@
     "info": {
         "label": "Software Developer",
         "characterClass": "Programmer",
-        "brief": "I'm a software developer with 4 years industry experience. I build data intensive enterprise standard software and solid APIs for web applicationa. I work in Java, Javascript and sometimes Python. I'm a perpetual learner and I enjoy solving problems especially hard ones. My skill set spans many fields and disciplines but I currently call software development and engineering home. I spend my days figuring out the best possible way to meet a clients need using the technology and frameworks available to me.",
+        "brief": "I'm a software developer with 4+ years industry experience. I build data intensive enterprise level web applications software and solid APIs. I work in Java, JavaScript and sometimes Python. I'm a perpetual learner and I enjoy solving problems especially hard ones. My skill set spans many fields and disciplines but I currently call software development and engineering home. I spend my days figuring out the best possible way to meet a client's needs using the technologies and frameworks available to me.",
         "image": "nana_adane.png"
     },
     
@@ -36,7 +36,7 @@
         "start": "2016-09-06",
         "repo": "https://github.com/v3rse/done",
         "description": "A todo list app running in the command line",
-        "summary": "Todo list CLI",
+        "summary": "To-do list CLI",
         "keywords": ["JavaScript", "Node.js"]
     },
     {
@@ -46,7 +46,7 @@
         "url": "https://github.com/v3rse/chroma",
         "start": "2016-09-06",
         "repo": "https://github.com/v3rse/chroma",
-        "description": "A module that displaces ANSI colors in most terminals",
+        "description": "A module that makes it easy to display ANSI colors in most terminals emulators",
         "summary": "Colors for your terminal app",
         "keywords": ["JavaScript", "Node.js"]
     },
@@ -57,22 +57,24 @@
         "url": "https://github.com/v3rse/batbeltjs",
         "start": "2016-05-24",
         "repo": "https://github.com/v3rse/batbeltjs",
-        "description": "This is an attempt to build a javascript utility library for web development which works like jQuery. Based on learnQuery",
-        "summary": "A quick way to learn browser javascript API",
+        "description": "This is an attempt to build a JavaScript utility library for web development which works like jQuery. Based on learnQuery",
+        "summary": "A quick way to learn browser JavaScript API",
         "keywords": ["JavaScript", "Node.js"]
     },
     {
       "title": "Enterprise Nurs 2.0",
       "category": "commercial",
       "role": "Software Engineer",
-      "start": "2015-10-01",
+      "start": "2013-07",
+      "end": "2015-10",
       "description": "Customer stickiness measures a customer’s loyalty to your company. Why is this important? \n\nLosing customers typically:\n- Costs your company more than  acquiring\n- Damages your company’s brand\n\nEnterprise Nurs is a suite of applications that help you drive customer stickiness - an imperative for any resilient profitability strategy. Each application is designed to drastically elevate your customer experience from inside out. Its state-of-the-art micro service architecture also means scaling is on demand and not wholesale.What differentiates Nurs is its ease of integration even with legacy systems. Unlike the typical 3-6 month implementation period for most enterprise solutions, Enterprise Nurs can be fully deployed in a month.",
-      "summary": "Worked primary on the Live Notification System",
+      "summary": "Worked primarily on the Live Notification System",
       "url": "http://enterprisenurs.com/"
     },
     {
       "title": "iWallet API NPM(Node.js) Module",
-      "start": "2014-12-01",
+      "start": "2014-12",
+      "end": "2014-12",
       "role": "maintainer",
       "description": "iWallet is an online payment service platform for merchants and individuals to securely make and receive payments. iWallet works like a aggregator which has integration with various channels of payments including some mobile money channels.\n\nThis node module aims to reduce the amount of code required to create an application which relies on iWallet for payment by exposing the actions(methods) provided by iWallet's SOAP API.",
       "summary": "Wrote this module to integrate apps with the Iwallet payment platform which was SOAP based",
@@ -105,20 +107,20 @@
                 "position": "Lead Software Engineer",
                 "url": "http://www.vivaultra.io",
                 "start": "2016-11",
-                "summary": "Developement team manager",
-                "keywords": ["Javascript", "Hapi", "Mongo", "Seneca", "JWT", "React", "Meteor", "Sinatra"],
+                "summary": "Development team manager",
+                "keywords": ["JavaScript", "Hapi", "Mongo", "Seneca", "JWT", "React", "Meteor", "Sinatra"],
                 "highlights": [
                     "Managed 3 developer team",
-                    "Designed on data model and application architecture",
-                    "Hired interviewd and new developers"
+                    "Designed data model and application architecture",
+                    "Interviewed and hired new developers"
                 ]
             },
             {
                 "employer": "DreamOval Ltd.",
-                "position": "Software Engineer",
+                "position": "Software/Support Engineer",
                 "url": "http://dreamoval.com/",
                 "start": "2013-07",
-                "summary": "Software engineer/Enterprise Support Enginer on [Enterprise Nurse](http://www.enterprisenurs.com/) team",
+                "summary": "Software engineer/Enterprise Support Engineer on [Enterprise Nurse](http://www.enterprisenurs.com/) team",
                 "keywords": ["Java", "Spring", "Mongo", "MySQL", "PHP", "GNU/Linux"],
                 "highlights": [
                     "Built proactive live notification system for Enterprise Nurs",
@@ -150,8 +152,8 @@
                 "institution": "K.N.U.S.T - Kumasi",
                 "title": "BSc. Computer Engineering",
                 "url": "https://www.knust.edu.gh/",
-                "start": "2009-01-01",
-                "end": "2013-01-01"
+                "start": "2009",
+                "end": "2013"
             }
         ]
   },
@@ -164,7 +166,7 @@
             "organization": "National Society of Black Engineers (KNUST Chapter)",
             "url": "http://www.nsbe.org/Regions/Region1/default.aspx",
             "start": "2010",
-            "summary": "Served the outreach commitee"
+            "summary": "Served on the Outreach committee"
         },
 
         {
@@ -172,7 +174,7 @@
             "organization": "mFriday",
             "url": "http://www.mfriday.org/",
             "start": "2010",
-            "summary": "Develper and member of the core group"
+            "summary": "Developer and member of the core group"
         }
       ]
     
@@ -182,7 +184,7 @@
     {
         "name": "Henry Sampson",
         "flavor": "professional",
-        "private": false,
+        "private": true,
         "contact": [
             {
                 "label": "Mobile",
@@ -202,18 +204,18 @@
   "skills": {
     "sets": [
         {
-            "name": "Frontend Web Development",
+            "name": "Frontend",
             "level": "Intermediate",
             "skills": [
                 "HTML",
                 "CSS",
-                "Javascript",
+                "JavaScript",
                 "ReactJS",
                 "Redux"
             ]
         },
         {
-            "name": "Backend Web Development",
+            "name": "Backend",
             "level": "Master",
             "skills": [
                 "NodeJS",
@@ -224,7 +226,7 @@
             ]
         },
         {
-            "name": "Enterprise Software Development",
+            "name": "Enterprise Software",
             "level": "Master",
             "skills": [
                 "Java",
