@@ -248,6 +248,20 @@
     ]
   
   },
+
+  "writing": [
+   {
+      "title": "Read, Write, Execute(RWX)",
+      "flavor": "blog",
+      "date": "2014",
+      "publisher": {
+        "name": "self",
+        "url": "http://blog.nanaadane.com"
+      },
+      "url": "http://blog.nanaadane.com"
+    }
+  ],
+
   "languages": [
     {
       "language": "French",
