@@ -262,6 +262,37 @@
     }
   ],
 
+  "reading": [
+        {
+        "title": "James Halliday's (Substack) blog",
+        "flavor": "blog",
+        "url": "http://substack.net/",
+        "author": "James Halliday",
+        "summary": "Cool stuff in there"
+       },
+       {
+        "title": "Zero to One",
+        "flavor": "book",
+        "url": "https://www.amazon.com/Zero-One-Notes-Startups-Future/dp/0804139296",
+        "author": "Peter Thiel",
+        "summary": "Insightful viewpoint"
+       },
+       {
+        "title": "The Goal",
+        "flavor": "book",
+        "url": "https://www.amazon.com/Goal-Process-Ongoing-Improvement/dp/0884271951",
+        "author": "Eliyahu M. Goldratt",
+        "summary": "Best management book I've read"
+       },
+       {
+        "title": "Hacking: The Art of Exploitation, 2nd Edition",
+        "flavor": "book",
+        "url": "https://www.amazon.com/Hacking-Art-Exploitation-Jon-Erickson/dp/1593271441/ref=sr_1_1?s=books&ie=UTF8&qid=1494519512&sr=1-1&keywords=hacking+the+art+of+exploitation",
+        "author": "Jon Erickson",
+        "summary": "This book touches on all modern layers of computing"
+       }
+  ],
+
   "languages": [
     {
       "language": "French",
