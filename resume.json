@@ -178,6 +178,27 @@
     
   },
 
+  "references": [
+    {
+        "name": "Henry Sampson",
+        "flavor": "professional",
+        "private": false,
+        "contact": [
+            {
+                "label": "Mobile",
+                "flavor": "professional",
+                "value": "+233264310171"
+            },
+            {
+                "label": "Work email",
+                "flavor": "email",
+                "value": "henry@dreamoval.com"
+            }
+        
+        ]
+    }
+  ],
+
   "skills": {
     "sets": [
         {
