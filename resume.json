@@ -179,11 +179,11 @@
   },
 
   "skills": {
-    "list": [
+    "sets": [
         {
             "name": "Frontend Web Development",
             "level": "Intermediate",
-            "keywords": [
+            "skills": [
                 "HTML",
                 "CSS",
                 "Javascript",
@@ -194,9 +194,10 @@
         {
             "name": "Backend Web Development",
             "level": "Master",
-            "keywords": [
+            "skills": [
                 "NodeJS",
                 "Hapi",
+                "Express",
                 "Mongo",
                 "JWT"
             ]
@@ -204,7 +205,7 @@
         {
             "name": "Enterprise Software Development",
             "level": "Master",
-            "keywords": [
+            "skills": [
                 "Java",
                 "Spring MVC",
                 "Spring Data",
@@ -215,7 +216,7 @@
         {
             "name": "DevOps",
             "level": "Intermediate",
-            "keywords": [
+            "skills": [
                 "Linux",
                 "Ansible",
                 "Nginx",
